@@ -8,7 +8,7 @@
 
 ## 文件路径
 - 原始文件: `/workspace/problem.bddl`
-- 修改后文件: `/workspace/problem_modified.bddl`
+- 修改后文件: `/workspace/problem_integrated_simple_modified.bddl`
 
 ## 被删除项详细记录
 
